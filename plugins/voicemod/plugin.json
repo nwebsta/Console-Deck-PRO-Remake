@@ -1,0 +1,9 @@
+{
+    "id": "voicemod",
+    "name": "Voicemod",
+    "version": "1.0.0",
+    "author": "Console Deck Pro",
+    "description": "Steuert Voicemod über die Control API: Stimmen wechseln, Voice Changer an/aus, Soundboard und Mikrofon stummschalten.",
+    "api_version": 1,
+    "entry": "__init__.py"
+}
